@@ -7,14 +7,7 @@ body {
     font-family: Arial;
 }
 
-.wrapper {
-    height: auto;
-}
-
-.cont-space {
-    padding-top: 150px;
-}
-
-h1 {
-    font-size: 4em;
+.container-fluid {
+    margin: 0;
+    padding: 0;
 }
