@@ -2,7 +2,7 @@
 
 angular.module("afroFramework").directive("afroFramework", function () {
     return {
-        transclude: false,
+        transclude: true,
         scope: {
             title: "@",
             iconFile: "@"
