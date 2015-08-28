@@ -1,0 +1,31 @@
+.afro-menu-area {
+    position: relative;
+    background: #333;
+    color: #ccc;
+    padding-left: 30px;
+    width: 300px;
+    min-height: 100vh;
+    padding-top: 30px;
+}
+
+.afro-menu-area .btn:hover {
+    color: #ccc;
+}
+
+.afro-menu {
+    vertical-align: top;
+}
+
+.afro-menu ul {
+    display: inline;
+    padding-left: 0;
+}
+
+.afro-menu li {
+    cursor: pointer;
+    padding: 15px 0;
+}
+
+.afro-select-item:hover {
+    background: #444;
+}
