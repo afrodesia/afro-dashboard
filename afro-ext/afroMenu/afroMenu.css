@@ -23,13 +23,13 @@
 
 .afro-menu li {
     cursor: pointer;
-    padding: 15px 0;
+    padding: 15px;
 }
 
-.afro-menu li i {
+.afro-menu li div {
     display: inline-block;
     width: 90%;
-    padding-left: 30px:
+    padding-left: 50px:
 }
 
 .afro-select-item:hover {
